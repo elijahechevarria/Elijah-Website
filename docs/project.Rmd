@@ -1,0 +1,20 @@
+---
+title: "Website"
+output: html_document
+date: "2026-09-05"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+**Hello! My name is Elijah Echevarria. I am a senior sociology major here at UT Austin. It is my dream to get my doctorate in statistics. I am super excited to take this class, not only because it will help improve my skills in developing and presenting exemplary data products, but also as it will help improve my knowledge of statistical methods, making me a more well-rounded (aspiring) statistician. A few facts about me: I grew up here in Austin, but I was born in Columbus, Ohio, at the the university hospital (Buckeye by birth, longhorn by heart). I lived in Romania for a year with my family, and I absolutely love soccer; I play pickup at least 3 times a week.**
+
+![A photo from my senior prom](C:/Users/elija/Downloads/IMG-0417.jpg)
+
+```{r, echo=FALSE}
+Sys.time()
+```
+
